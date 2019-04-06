@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2160"
+   height="1080"
+   viewBox="0 0 571.49999 285.75001"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="eventbrite.svg"
+   inkscape:export-filename="C:\Users\Peppe\eventbrite.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6194">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop6190" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop6192" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4651"
+       inkscape:collect="always">
+      <stop
+         id="stop4647"
+         offset="0"
+         style="stop-color:#ff1a1a;stop-opacity:1;" />
+      <stop
+         id="stop4649"
+         offset="1"
+         style="stop-color:#ff1a1a;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4643"
+       inkscape:collect="always">
+      <stop
+         id="stop4639"
+         offset="0"
+         style="stop-color:#1c74d8;stop-opacity:1;" />
+      <stop
+         id="stop4641"
+         offset="1"
+         style="stop-color:#1c74d8;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1895">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1891" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1893" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1895"
+       id="radialGradient2017"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2231888,-0.00407956,0.00696794,2.5581862,-31.532733,-90.315772)"
+       cx="107.66948"
+       cy="99.503029"
+       fx="107.66948"
+       fy="99.503029"
+       r="55.039242" />
+    <filter
+       id="filter4625"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend4627"
+         in2="BackgroundImage"
+         mode="lighten"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="171.48808"
+       x2="119.05015"
+       y1="155.57069"
+       x1="94.06337"
+       id="linearGradient4645"
+       xlink:href="#linearGradient4643"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="168.72577"
+       x2="140.36514"
+       y1="145.53716"
+       x1="106.23087"
+       id="linearGradient4653"
+       xlink:href="#linearGradient4651"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6194"
+       id="linearGradient6196"
+       x1="369.94632"
+       y1="65.470467"
+       x2="382.81247"
+       y2="305.36307"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99718838,0,0,1.4524515,-1.0046302,-154.90225)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="482.97147"
+     inkscape:cy="529.14268"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <g
+       style="enable-background:new"
+       id="g5218"
+       transform="matrix(1.9418197,0,0,1.9418197,6.7991411,-1.9128815)">
+      <g
+         style="display:none"
+         transform="translate(0,-138.24998)"
+         inkscape:label="Livello 3"
+         id="layer6">
+        <ellipse
+           ry="19.84375"
+           rx="19.843746"
+           cy="276.95578"
+           cx="22.850376"
+           id="path4585"
+           style="opacity:0.65100002;fill:#ececec;fill-opacity:0.78039216;stroke:none;stroke-width:0.12973221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20.4753933px;line-height:0;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51188481"
+           x="47.905296"
+           y="293.4808"
+           id="text1909-5"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan1907-9"
+             x="47.905296"
+             y="293.4808"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#333333;fill-opacity:1;stroke-width:0.51188481">BOLOGNA</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         transform="translate(0,-138.24998)"
+         id="layer1-5"
+         inkscape:label="Livello 1">
+        <g
+           style="opacity:1;filter:url(#filter4625)"
+           transform="translate(-4.2898907,0.16258747)"
+           id="g4580">
+          <g
+             transform="matrix(0.95000012,0,0,0.95000012,15.339472,12.26699)"
+             id="layer5"
+             inkscape:label="Livello 5">
+            <path
+               style="display:inline;fill:none;fill-opacity:1;stroke:url(#radialGradient2017);stroke-width:1.42729485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80861248"
+               d="m 27.420748,261.03264 c 56.949339,1.42795 38.005717,-64.28607 56.56561,-88.5199 3.765478,-4.91662 9.074651,-8.12584 16.874482,-8.72061 35.38785,1.92206 11.61232,94.8095 57.11999,95.1568"
+               id="path5179"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cscc"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+          </g>
+          <g
+             transform="matrix(1.4835002,0,0,1.4397004,-52.396349,6.2181269)"
+             inkscape:label="Livello 1"
+             id="layer1-4"
+             style="display:inline;fill:#ff1a1a;fill-opacity:1">
+            <path
+               style="opacity:0.778;fill:url(#linearGradient4653);fill-opacity:1;stroke:none;stroke-width:0.21460839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 107.64317,116.73719 -1.4123,58.5909 7.82194,0.49548 -0.97774,-60.57283 z"
+               id="path3753"
+               inkscape:connector-curvature="0"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+            <path
+               style="opacity:0.778;fill:#aa1414;fill-opacity:1;stroke:none;stroke-width:0.21460839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 114.05281,175.82357 -0.97774,-60.57283 3.47641,0.49549 2.49867,55.74186 z"
+               id="path3755"
+               inkscape:connector-curvature="0"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+          </g>
+          <g
+             id="layer2"
+             inkscape:label="Livello 2"
+             style="display:inline" />
+          <g
+             style="fill:#1c74d8;fill-opacity:1"
+             transform="matrix(1.4835002,0,0,1.4397004,-52.396349,6.2181269)"
+             id="layer3"
+             inkscape:label="Livello 3">
+            <path
+               style="opacity:0.778;fill:url(#linearGradient4645);fill-opacity:1;stroke:none;stroke-width:0.21460839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 96.018849,131.10621 -1.955477,50.53929 9.234258,-0.24774 -0.5432,-51.90188 z"
+               id="path3747"
+               inkscape:connector-curvature="0"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+            <path
+               style="opacity:0.778;fill:#245287;fill-opacity:1;stroke:none;stroke-width:0.21460839px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 103.29763,181.39776 -0.5432,-51.90188 3.58508,1.11484 1.73821,47.81414 z"
+               id="path3751"
+               inkscape:connector-curvature="0"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+          </g>
+          <g
+             style="opacity:1"
+             transform="translate(-12.977183,133.56877)"
+             id="layer4"
+             inkscape:label="Livello 4">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.94886398px;line-height:0;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';letter-spacing:0px;word-spacing:0px;fill:#1c74d8;fill-opacity:1;stroke:none;stroke-width:0.44872153"
+               x="52.853348"
+               y="73.83947"
+               id="text1903"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"><tspan
+                 sodipodi:role="line"
+                 x="52.853348"
+                 y="73.83947"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#1c74d8;fill-opacity:1;stroke-width:0.44872153"
+                 id="tspan1913">DATA</tspan><tspan
+                 sodipodi:role="line"
+                 x="52.853348"
+                 y="74.499008"
+                 style="fill:#1c74d8;fill-opacity:1;stroke-width:0.44872153"
+                 id="tspan1905" /></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.10427666px;line-height:0;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:0.99190285;stroke:none;stroke-width:0.47760689"
+               x="30.839966"
+               y="105.03483"
+               id="text1909"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"><tspan
+                 sodipodi:role="line"
+                 id="tspan1907"
+                 x="30.839966"
+                 y="105.03483"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#333333;fill-opacity:0.99190285;stroke-width:0.47760689">BOLOGNA</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.36752319px;line-height:0;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';letter-spacing:0px;word-spacing:0px;fill:#ff1919;fill-opacity:0.99215686;stroke:none;stroke-width:0.43418807"
+               x="27.26289"
+               y="88.717194"
+               id="text1921"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96"><tspan
+                 sodipodi:role="line"
+                 x="27.26289"
+                 y="88.717194"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#ff1919;fill-opacity:0.99215686;stroke-width:0.43418807"
+                 id="tspan1923">SCIENCE</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:92.85845184px;line-height:0;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#1c74d8;fill-opacity:1;stroke:none;stroke-width:0.69643843"
+       x="276.45813"
+       y="56.533081"
+       id="text5527"><tspan
+         sodipodi:role="line"
+         id="tspan5525"
+         x="276.45813"
+         y="56.533081"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20.42886162px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#1c74d8;fill-opacity:1;stroke-width:0.69643843">TITLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:92.85845184px;line-height:0.15000001;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69643843"
+       x="266.61578"
+       y="84.704765"
+       id="text5539"><tspan
+         sodipodi:role="line"
+         x="266.61578"
+         y="84.704765"
+         style="font-size:26.00037003px;line-height:0.15000001;stroke-width:0.69643843"
+         id="tspan5581">Meeting su <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.69643843"
+   id="tspan5587">Data Science</tspan> e </tspan><tspan
+         sodipodi:role="line"
+         x="266.61578"
+         y="110.33369"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.00037003px;line-height:0.15000001;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.69643843"
+         id="tspan5585">Machine Learning  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.82647705px;line-height:0.1;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#f83032;fill-opacity:1;stroke:none;stroke-width:0.70369858"
+       x="296.19028"
+       y="165.56087"
+       id="text5535"><tspan
+         sodipodi:role="line"
+         id="tspan5533"
+         x="296.19028"
+         y="165.56087"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.02433205px;line-height:0.1;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#f83032;fill-opacity:1;stroke-width:0.70369858">0 MONTH<tspan
+   style="line-height:0.1;fill:#d40000;stroke-width:0.70369858"
+   id="tspan5622" /></tspan><tspan
+         sodipodi:role="line"
+         x="296.19028"
+         y="187.70395"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.64172935px;line-height:0.1;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#1a1a1a;fill-opacity:1;stroke-width:0.70369858"
+         id="tspan5618">HOURS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.82603455px;line-height:0.08;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70369524"
+       x="295.4678"
+       y="212.72577"
+       id="text5539-1"><tspan
+         sodipodi:role="line"
+         x="295.4678"
+         y="212.72577"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5182476px;line-height:0.08;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.70369524"
+         id="tspan5585-3">LOCATION</tspan><tspan
+         sodipodi:role="line"
+         x="295.4678"
+         y="235.20648"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.64172935px;line-height:0.08;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.70369524"
+         id="tspan5616"><tspan
+           style="font-size:20.64172935px;line-height:0.08;fill:#4d4d4d;stroke-width:0.70369524"
+           id="tspan5624">Street - BOLOGNA</tspan></tspan></text>
+  </g>
+</svg>
